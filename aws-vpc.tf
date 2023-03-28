@@ -70,3 +70,4 @@ resource "aws_route" "azureroute" {
   vpc_peering_connection_id = "${aws_vpn_gateway.vpn_gw.id}"
 }
 # commentting on file #
+# adding a new comment for testing #
