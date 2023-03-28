@@ -1,0 +1,5 @@
+aws_access_key = "[MYACCESSKEY]"
+aws_secret_key = "[MYSECRETKEY]"
+#azure_client_id= ""
+#azure_client_secret=""
+#tenant_id=""
