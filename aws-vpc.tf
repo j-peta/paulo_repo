@@ -69,3 +69,4 @@ resource "aws_route" "azureroute" {
   #destination_cidr_block = "${azurerm_subnet.subnet.address_prefix}"
   vpc_peering_connection_id = "${aws_vpn_gateway.vpn_gw.id}"
 }
+# commentting on file #
